@@ -1,0 +1,12 @@
+Added Component: Designator=C4(CAPC1005L)
+Added Component: Designator=C5(CAPC1005L)
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=U1-14
+Change Net Color : Old Net Color=RGB(0, 102, 255) New Net Color=Default
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=SatController_S1 Member=Component C4 0.1uF
+Added Member To Class: ClassName=SatController_S1 Member=Component C5 0.1uF

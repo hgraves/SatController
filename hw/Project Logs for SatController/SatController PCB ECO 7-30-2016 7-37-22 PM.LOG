@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-2
+Change Net Color : Old Net Color=RGB(0, 102, 255) New Net Color=Default
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_3 Pin=U1-13
+Added Net: Name=NetSW1_3
