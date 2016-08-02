@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3 Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Pin From Net: NetName=NetP1_3 Pin=U3-15
+Removed Pin From Net: NetName=NetP1_2 Pin=U3-16
+Removed Pin From Net: NetName=GND Pin=U3-18
+Removed Pin From Net: NetName=NetL1_2 Pin=U3-20
+Removed Pin From Net: NetName=GND Pin=U3-21
+Removed Pin From Net: NetName=GND Pin=U3-25
+Change Component DesignItemId : Designator=U3 Old DesignItemId=FT232RL-Tube New DesignItemId=FT230X
+Change Component Footprint: Designator=U3 Old Footprint=SSOP-28_N New Footprint=SOP64P600X175-16N
+Change Component Comment : Designator=U3 Old Comment=FT232RL-Tube New Comment=FT230X
+Added Pin To Net: NetName=3V3 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=NetP1_3 Pin=U3-8
+Added Pin To Net: NetName=NetP1_2 Pin=U3-9
+Added Pin To Net: NetName=NetL1_2 Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
